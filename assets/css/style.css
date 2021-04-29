@@ -833,7 +833,6 @@ p {
 
 .contact-details {
   list-style: none;
-  text-align: center;
   margin: 0;
   padding: 0;
 }
@@ -1166,6 +1165,7 @@ blockquote {
   /* Contact */
   .contact-contact {
     margin-bottom: 30px;
+    text-align: center;
   }
   /* Footer */
   #footer .socials-media ul li {
