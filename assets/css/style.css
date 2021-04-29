@@ -135,6 +135,7 @@ p {
 
 .mb-30 {
   margin-bottom: 30px;
+  text-align: center;
 }
 
 .main-content {
@@ -835,6 +836,7 @@ p {
   list-style: none;
   margin: 0;
   padding: 0;
+  text-align: center;
 }
 
 .contact-details li {
@@ -1165,7 +1167,6 @@ blockquote {
   /* Contact */
   .contact-contact {
     margin-bottom: 30px;
-    text-align: center;
   }
   /* Footer */
   #footer .socials-media ul li {
