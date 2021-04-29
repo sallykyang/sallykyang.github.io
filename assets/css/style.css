@@ -425,6 +425,8 @@ p {
 # Hero
 --------------------------------------------------------------*/
 #hero {
+  background-color: #292929;
+  color: #292929;
   height: 100vh;
   width: 100%;
 }
@@ -443,7 +445,7 @@ p {
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
-  color: #000000;
+  color: #fff;
 }
 
 .hero-content p {
@@ -452,7 +454,7 @@ p {
   margin-top: 0;
   margin-bottom: 30px;
   text-transform: capitalize;
-  color: #000000;
+  color: #fff;
   font-weight: 500;
 }
 
@@ -462,7 +464,7 @@ p {
 }
 
 .hero-content .list-social li i {
-  color: #000000;
+  color: #fff;
   font-size: 15px;
 }
 
