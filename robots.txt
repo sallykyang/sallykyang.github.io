@@ -1,5 +1,5 @@
 # Sally Yang personal website robots.txt
-# Tested against https://www.google.com/webmasters/tools/robots-testing-tool
+# Tested against https://seositecheckup.com/analysis
 # Last Update: 26 July 2022
 
 # Disallow bots and crawlers on site
