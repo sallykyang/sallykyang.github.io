@@ -5,22 +5,71 @@
 # Disallow bots and crawlers on site
 
 User-agent: AdsBot-Google
+Disallow: /
+
 User-agent: AdsBot-Google-Mobile
+Disallow: /
+
 User-agent: AdsBot-Google-Mobile
+Disallow: /
+
 User-agent: Mediapartners-Google
+Disallow: /
+
 User-agent: Baiduspider
+Disallow: /
+
 User-agent: MSNBot
+Disallow: /
+
 User-agent: Baiduspider-image
+Disallow: /
+
 User-agent: YoudaoBot
+Disallow: /
+
 User-agent: Sogou web spider
+Disallow: /
+
 User-agent: Sogou inst spider
+Disallow: /
+
 User-agent: Sogou spider2
+Disallow: /
+
 User-agent: Sogou blog
+Disallow: /
+
 User-agent: Sogou News Spider
+Disallow: /
+
 User-agent: Sogou Orion spider
+Disallow: /
+
 User-agent: ChinasoSpider
+Disallow: /
+
 User-agent: Sosospider
+Disallow: /
+
 User-agent: yisouspider
+Disallow: /
+
 User-agent: EasouSpider
+Disallow: /
+
+User-agent: Twitterbot
+Disallow: /
+
+User-agent: facebookexternalhit
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: PiplBot
+Disallow: /
+
 User-agent: *
 Disallow: /
+
