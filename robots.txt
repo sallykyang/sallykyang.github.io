@@ -5,4 +5,8 @@
 # Disallow bots and crawlers on site
 
 User-agent: *
+User-agent: AdsBot-Google
+User-agent: AdsBot-Google-Mobile
+User-agent: AdsBot-Google-Mobile
+User-agent: Mediapartners-Google
 Disallow: /
