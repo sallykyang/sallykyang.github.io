@@ -4,9 +4,23 @@
 
 # Disallow bots and crawlers on site
 
-User-agent: *
 User-agent: AdsBot-Google
 User-agent: AdsBot-Google-Mobile
 User-agent: AdsBot-Google-Mobile
 User-agent: Mediapartners-Google
+User-agent: Baiduspider
+User-agent: MSNBot
+User-agent: Baiduspider-image
+User-agent: YoudaoBot
+User-agent: Sogou web spider
+User-agent: Sogou inst spider
+User-agent: Sogou spider2
+User-agent: Sogou blog
+User-agent: Sogou News Spider
+User-agent: Sogou Orion spider
+User-agent: ChinasoSpider
+User-agent: Sosospider
+User-agent: yisouspider
+User-agent: EasouSpider
+User-agent: *
 Disallow: /
