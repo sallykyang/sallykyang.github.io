@@ -72,4 +72,3 @@ Disallow: /
 
 User-agent: *
 Disallow: /
-
